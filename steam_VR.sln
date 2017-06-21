@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "steam_VR.CSharp.Plugins", "steam_VR.CSharp.Plugins.csproj", "{8845F698-138A-846F-B27E-12A3E78FF062}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "steam_VR.CSharp", "steam_VR.CSharp.csproj", "{EB64195E-DA2E-D328-ED62-B02B6ACED9FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "steam_VR.CSharp.Editor", "steam_VR.CSharp.Editor.csproj", "{39F5009B-3BC4-5315-1A63-06CE3DFE3003}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8845F698-138A-846F-B27E-12A3E78FF062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8845F698-138A-846F-B27E-12A3E78FF062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8845F698-138A-846F-B27E-12A3E78FF062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8845F698-138A-846F-B27E-12A3E78FF062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB64195E-DA2E-D328-ED62-B02B6ACED9FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB64195E-DA2E-D328-ED62-B02B6ACED9FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB64195E-DA2E-D328-ED62-B02B6ACED9FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB64195E-DA2E-D328-ED62-B02B6ACED9FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39F5009B-3BC4-5315-1A63-06CE3DFE3003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F5009B-3BC4-5315-1A63-06CE3DFE3003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F5009B-3BC4-5315-1A63-06CE3DFE3003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F5009B-3BC4-5315-1A63-06CE3DFE3003}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
